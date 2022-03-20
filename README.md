@@ -32,38 +32,38 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 #### JS Framework/Library
 ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
 ![Angular Material](https://img.shields.io/badge/-Angular%20Material-000?style=for-the-badge&logo=angular)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-![RxJS](https://img.shields.io/badge/-RxJS-000.svg?style=flat&logo=reactivex)
-![NgRx](https://img.shields.io/badge/-NgRx-000.svg?style=flat&logo=reactivex)
-![jQuery](https://img.shields.io/badge/-jQuery-000?style=flat&logo=jquery) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![RxJS](https://img.shields.io/badge/-RxJS-000.svg?style=for-the-badge&logo=reactivex)
+![NgRx](https://img.shields.io/badge/-NgRx-000.svg?style=for-the-badge&logo=reactivex)
+![jQuery](https://img.shields.io/badge/-jQuery-000?style=for-the-badge&logo=jquery) 
 
 #### JavaScript testing framework
-![Jasmine](https://img.shields.io/badge/-Jasmine-000?style=flat&logo=jasmine)
-![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=jest)
+![Jasmine](https://img.shields.io/badge/-Jasmine-000?style=for-the-badge&logo=jasmine)
+![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest)
 
 #### Query Language
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logo=graphql)
-![Apollo-GraphQL](https://img.shields.io/badge/Apollo-GraphQL-311C87?style=flat&logo=apollo-graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=for-the-badge&logo=graphql)
+![Apollo-GraphQL](https://img.shields.io/badge/Apollo-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 #### CSS Framework/Library/Pre-processors
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
-![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=SASS)
-![Less](https://img.shields.io/badge/-less-000?style=flat&logo=less)
+![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=SASS)
+![Less](https://img.shields.io/badge/-less-000?style=for-the-badge&logo=less)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 
 #### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
-![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-000?style=flat&logo=sequelize)
-![PHP](https://img.shields.io/badge/-PHP-000g?style=flat&logo=php)
-![Code-Igniter](https://img.shields.io/badge/-CodeIgniter-000?style=flat&logo=codeIgniter)
+![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-000?style=for-the-badge&logo=sequelize)
+![PHP](https://img.shields.io/badge/-PHP-000g?style=for-the-badge&logo=php)
+![Code-Igniter](https://img.shields.io/badge/-CodeIgniter-000?style=for-the-badge&logo=codeIgniter)
 
 #### Web Hosting
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
@@ -79,9 +79,9 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 #### Others
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=flat&logo=jenkins)
-![Jira](https://img.shields.io/badge/-Jira-000?style=flat&logo=jira) 
-![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=postman)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=for-the-badge&logo=jenkins)
+![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira) 
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code)
 
 ### My Stats :fire:
