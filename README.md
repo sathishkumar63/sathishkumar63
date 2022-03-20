@@ -24,7 +24,7 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-#### CSS Framework/Library/Pre-processors
+#### CSS Framework/Pre-processors
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-bf4080?style=for-the-badge&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/-less-1d365d?style=for-the-badge&logo=less&logoColor=white)
