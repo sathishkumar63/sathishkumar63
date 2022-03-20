@@ -52,7 +52,7 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=for-the-badge&logo=html5)
 
 #### JS Framework/Library
 ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
