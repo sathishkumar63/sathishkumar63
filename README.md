@@ -56,15 +56,15 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 
 #### JS Framework/Library
 ![Angular](https://img.shields.io/badge/-Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular Material](https://img.shields.io/badge/-Angular%20Material-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/-Angular%20Material-%230A0FFF.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/-RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![NgRx](https://img.shields.io/badge/-NgRx-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 
 #### JavaScript testing framework
-![Jasmine](https://img.shields.io/badge/-Jasmine-000?style=for-the-badge&logo=jasmine)
-![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest)
+![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-%238A4182.svg?style=for-the-badge&logo=jest&logoColor=white)
 
 #### Query Language
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=for-the-badge&logo=graphql)
