@@ -187,6 +187,9 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sathishkumar63)](https://wakatime.com/@sathishkumar63)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **sathishkumar63/sathishkumar63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
