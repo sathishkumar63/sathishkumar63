@@ -55,12 +55,12 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 #### JS Framework/Library
-![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
-![Angular Material](https://img.shields.io/badge/-Angular%20Material-000?style=for-the-badge&logo=angular)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
-![RxJS](https://img.shields.io/badge/-RxJS-000.svg?style=for-the-badge&logo=reactivex)
-![NgRx](https://img.shields.io/badge/-NgRx-000.svg?style=for-the-badge&logo=reactivex)
-![jQuery](https://img.shields.io/badge/-jQuery-000?style=for-the-badge&logo=jquery) 
+![Angular](https://img.shields.io/badge/-Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/-Angular%20Material-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/-RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/-NgRx-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 
 #### JavaScript testing framework
 ![Jasmine](https://img.shields.io/badge/-Jasmine-000?style=for-the-badge&logo=jasmine)
