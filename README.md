@@ -183,9 +183,9 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sathishkumar63&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar63&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar63&layout=compact&theme=vision-friendly-dark)](https://github.com/sathishkumar63/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sathishkumar63)](https://github.com/sathishkumar63/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sathishkumar63)](https://wakatime.com/@sathishkumar63)
 
 <!--
 **sathishkumar63/sathishkumar63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
