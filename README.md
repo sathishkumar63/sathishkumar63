@@ -91,13 +91,13 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 ![Code-Igniter](https://img.shields.io/badge/-CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 
 #### Web Hosting
-![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-79589F?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-f57d01?style=for-the-badge&logo=firebase&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 
 #### Package Manager
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
+![NPM](https://img.shields.io/badge/-NPM-e34c26?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-yarn-2188b6?style=for-the-badge&logo=yarn&logoColor=white)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
