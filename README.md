@@ -20,7 +20,7 @@
 </div>
 
   
-Welcome to my profile! I’m working as a Software Engineer and contributing to frontend and backend for building web applications.. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sathishkumar63/)!
+Welcome to my profile! I’m working as a Software Engineer and contributing to frontend and backend for building web applications. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sathishkumar63/)!
 
 ---
 
