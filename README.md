@@ -55,8 +55,8 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 #### JS Framework/Library
-![Angular](https://img.shields.io/badge/-Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular Material](https://img.shields.io/badge/-Angular%20Material-%230A0FFF.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-c4002f?style=for-the-badge&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/-Angular%20Material-3f51b5?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/-RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![NgRx](https://img.shields.io/badge/-NgRx-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
@@ -71,17 +71,16 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 ![Apollo-GraphQL](https://img.shields.io/badge/Apollo-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 
 #### CSS Framework/Library/Pre-processors
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
-![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=SASS)
-![Less](https://img.shields.io/badge/-less-000?style=for-the-badge&logo=less)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-bf4080?style=for-the-badge&logo=SASS&logoColor=white)
+![Less](https://img.shields.io/badge/-less-1d365d?style=for-the-badge&logo=less&logoColor=white)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -104,8 +103,8 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 #### Others
-![Jenkins](https://img.shields.io/badge/-Jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/-Jenkins-6c757d?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
