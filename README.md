@@ -38,5 +38,3 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
   
 ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=sathishkumar63&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=sathishkumar63&icon=0&color=0)](https://visitcount.itsvg.in)
