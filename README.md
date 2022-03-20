@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=github.com/sathishkumar63&style=flat-square&color=blue" alt="profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=sathishkumar63&style=flat-square&color=blue" alt="profile views counter"/>
 </div>
 
 
