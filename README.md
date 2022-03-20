@@ -67,8 +67,8 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 ![Jest](https://img.shields.io/badge/-Jest-%238A4182.svg?style=for-the-badge&logo=jest&logoColor=white)
 
 #### Query Language
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=for-the-badge&logo=graphql)
-![Apollo-GraphQL](https://img.shields.io/badge/Apollo-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/Apollo-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 
 #### CSS Framework/Library/Pre-processors
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
@@ -80,15 +80,15 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 
 #### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Backend
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
-![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-000?style=for-the-badge&logo=sequelize)
-![PHP](https://img.shields.io/badge/-PHP-000g?style=for-the-badge&logo=php)
-![Code-Igniter](https://img.shields.io/badge/-CodeIgniter-000?style=for-the-badge&logo=codeIgniter)
+![NodeJS](https://img.shields.io/badge/-NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-ExpressJS-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-%23404d59.svg?style=for-the-badge&logo=sequelize&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/-PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/-CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 
 #### Web Hosting
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
@@ -100,14 +100,14 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 ![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
 
 #### Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/-Git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 #### Others
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=for-the-badge&logo=jenkins)
-![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira) 
-![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code)
+![Jenkins](https://img.shields.io/badge/-Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 ### My Stats :fire:
 [![Sathishkumar63's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sathishkumar63&show_icons=true&count_private=true&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=sathishkumar63&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
