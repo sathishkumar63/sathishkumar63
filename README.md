@@ -43,7 +43,7 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 
 #### Query Language
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logo=graphql)
-![Apollo-GraphQL](https://img.shields.io/badge/-Apollo-GraphQL-000?style=flat&logo=apollo-graphql)
+![Apollo-GraphQL](https://img.shields.io/badge/-Apollo-GraphQL-311C87?style=flat&logo=apollo-graphql)
 
 #### CSS Framework/Library/Pre-processors
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
