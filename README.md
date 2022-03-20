@@ -62,7 +62,7 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 #### Web Hosting
 ![Heroku](https://img.shields.io/badge/-Heroku-79589F?style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-e34c26?style=for-the-badge&logo=npm&logoColor=white)
