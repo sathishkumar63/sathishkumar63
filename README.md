@@ -20,7 +20,7 @@
 </div>
 
   
-Welcome to my profile! I’m working as a Software Engineer and contributing to frontend and backend for building web applications. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sathishkumar63/)!
+Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North America. I am an Experienced Fullstack Developer with a demonstrated history of working in the education management industry. Skilled in HTML5, CSS3, SCSS, Bootstrap, Accessibility, jQuery, Angular, Angular Material, JavaScript, Typescript, Jest, GraphQL, Sequelize ORM,  Express Js, NodeJS, PostgreSQL, MySQL, PHP, CodeIgniter and SlimPHP. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sathishkumar63/)!
 
 ---
 
