@@ -4,7 +4,7 @@
     width="100"
   />
 
- # Hi I'm Sathishkumar 👋
+# Hi I'm Sathishkumar 👋
 [![Linkedin Badge](https://img.shields.io/badge/-sathishkumar63-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathishkumar63/)](https://www.linkedin.com/in/sathishkumar63/)
 [![Twitter Badge](https://img.shields.io/badge/-@__sathishjim63-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sathishjim63)](https://twitter.com/sathishjim63)
 [![Gmail Badge](https://img.shields.io/badge/-sathishjim-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sathishjim@gmail.com)](mailto:sathishjim@gmail.com)
@@ -15,11 +15,6 @@
   />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-  
 Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North America. I am an Experienced Fullstack Developer with a demonstrated history of working in the education management industry. Skilled in HTML5, CSS3, SCSS, Bootstrap, Accessibility, jQuery, Angular, Angular Material, JavaScript, Typescript, Jest, GraphQL, Sequelize ORM,  Express Js, NodeJS, PostgreSQL, MySQL, PHP, CodeIgniter and SlimPHP. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sathishkumar63/)!
 
 ---
