@@ -88,6 +88,14 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 [![Sathishkumar63's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sathishkumar63)](https://wakatime.com/@sathishkumar63)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   12 hrs 53 mins  ████████████████▓░░░░░░░░   66.31 %
+HTML         5 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.30 %
+SCSS         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+```
+
 <!--END_SECTION:waka-->
 
 ### GitHub Trophies 🏆
