@@ -22,7 +22,7 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 
 #### Languages
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&link=https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Learn/CSS)
+[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Learn/CSS)](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 #### CSS Framework/Pre-processors
