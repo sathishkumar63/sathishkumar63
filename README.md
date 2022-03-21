@@ -26,58 +26,57 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 #### CSS Framework/Pre-processors
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-bf4080?style=for-the-badge&logo=SASS&logoColor=white)
-![Less](https://img.shields.io/badge/-less-1d365d?style=for-the-badge&logo=less&logoColor=white)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![SCSS](https://img.shields.io/badge/-SCSS-bf4080?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
+[![Less](https://img.shields.io/badge/-less-1d365d?style=for-the-badge&logo=less&logoColor=white)](https://lesscss.org/)
 
 #### JS Framework/Library
-![Angular](https://img.shields.io/badge/-Angular-c4002f?style=for-the-badge&logo=angular&logoColor=white)
-![Angular Material](https://img.shields.io/badge/-Angular%20Material-3f51b5?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/-RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![NgRx](https://img.shields.io/badge/-NgRx-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+[![Angular](https://img.shields.io/badge/-Angular-c4002f?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Angular Material](https://img.shields.io/badge/-Angular%20Material-3f51b5?style=for-the-badge&logo=angular&logoColor=white)](https://material.angular.io/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![RxJS](https://img.shields.io/badge/-RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)](https://rxjs.dev/)
+[![NgRx](https://img.shields.io/badge/-NgRx-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)](https://ngrx.io/)
+[![jQuery](https://img.shields.io/badge/-jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 
 #### JavaScript testing framework
-![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-%238A4182.svg?style=for-the-badge&logo=jest&logoColor=white)
+[![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)](https://jasmine.github.io/)
+[![Jest](https://img.shields.io/badge/-Jest-%238A4182.svg?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 
 #### Query Language
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/Apollo-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Apollo-GraphQL](https://img.shields.io/badge/Apollo-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/)
 
 #### Design/Visual Tools
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+[![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)](https://www.figma.com/)
 
 #### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 #### Backend
-![NodeJS](https://img.shields.io/badge/-NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-ExpressJS-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-%23404d59.svg?style=for-the-badge&logo=sequelize&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/-PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/-CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+[![NodeJS](https://img.shields.io/badge/-NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev/learn/introduction-to-nodejs)
+[![Express.js](https://img.shields.io/badge/-ExpressJS-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
+[![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-%23404d59.svg?style=for-the-badge&logo=sequelize&logoColor=%2361DAFB)](https://sequelize.org/v7/)
+[![PHP](https://img.shields.io/badge/-PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.w3schools.com/php/)
+[![Code-Igniter](https://img.shields.io/badge/-CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)](https://codeigniter.com/user_guide/tutorial/index.html)
 
 #### Web Hosting
-![Heroku](https://img.shields.io/badge/-Heroku-79589F?style=for-the-badge&logo=heroku&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Firebase](https://img.shields.io/badge/-Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+[![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 
 #### Package Manager
-![NPM](https://img.shields.io/badge/-NPM-e34c26?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/-yarn-2188b6?style=for-the-badge&logo=yarn&logoColor=white)
+[![NPM](https://img.shields.io/badge/-NPM-e34c26?style=for-the-badge&logo=npm&logoColor=white)](https://docs.npmjs.com/about-npm)
+[![Yarn](https://img.shields.io/badge/-yarn-2188b6?style=for-the-badge&logo=yarn&logoColor=white)](https://classic.yarnpkg.com/en/docs)
 
 #### Version Control
-![Git](https://img.shields.io/badge/-Git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Git](https://img.shields.io/badge/-Git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 #### Others
-![Jenkins](https://img.shields.io/badge/-Jenkins-6c757d?style=for-the-badge&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+[![Jenkins](https://img.shields.io/badge/-Jenkins-6c757d?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ### My Stats :fire:
 [![Sathishkumar63's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sathishkumar63&show_icons=true&count_private=true&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=sathishkumar63&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
