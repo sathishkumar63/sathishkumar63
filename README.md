@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-sathishjim-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sathishjim@gmail.com)
     
 <img
-  src="https://komarev.com/ghpvc/?username=sathishkumar63&style=flat-square&color=blue"
+  src="https://komarev.com/ghpvc/?username=sathishkumar63&style=flat-square&color=green"
   alt="profile views counter"
   />
 </div>
