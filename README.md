@@ -4,10 +4,10 @@
     width="100"
   />
 
-# Hi I'm Sathishkumar 👋
-[![Linkedin Badge](https://img.shields.io/badge/-sathishkumar63-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathishkumar63/)](https://www.linkedin.com/in/sathishkumar63/)
-[![Twitter Badge](https://img.shields.io/badge/-@__sathishjim63-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sathishjim63)](https://twitter.com/sathishjim63)
-[![Gmail Badge](https://img.shields.io/badge/-sathishjim-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sathishjim@gmail.com)](mailto:sathishjim@gmail.com)
+# Hi I'm Sathishkumar 👋  
+[![Linkedin Badge](https://img.shields.io/badge/-sathishkumar63-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathishkumar63/)
+[![Twitter Badge](https://img.shields.io/badge/-@__sathishjim63-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/sathishjim63)
+[![Gmail Badge](https://img.shields.io/badge/-sathishjim-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sathishjim@gmail.com)
     
 <img
   src="https://komarev.com/ghpvc/?username=sathishkumar63&style=flat-square&color=blue"
@@ -21,9 +21,9 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 ## Tech Stack 💻
 
 #### Languages
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 #### CSS Framework/Pre-processors
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
