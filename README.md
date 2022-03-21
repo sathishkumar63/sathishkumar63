@@ -5,9 +5,9 @@
   />
 
 # Hi I'm Sathishkumar 👋  
-[![Linkedin Badge](https://img.shields.io/badge/-sathishkumar63-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathishkumar63/)
-[![Twitter Badge](https://img.shields.io/badge/-@__sathishjim63-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/sathishjim63)
-[![Gmail Badge](https://img.shields.io/badge/-sathishjim-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sathishjim@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-sathishkumar63-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathishkumar63/)
+[![Twitter Badge](https://img.shields.io/badge/-@__sathishjim63-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/sathishjim63)
+[![Gmail Badge](https://img.shields.io/badge/-sathishjim-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sathishjim@gmail.com)
     
 <img
   src="https://komarev.com/ghpvc/?username=sathishkumar63&style=flat-square&color=blue"
