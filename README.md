@@ -73,7 +73,7 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 [![GitHub](https://img.shields.io/badge/-GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 #### Others
-[![Jenkins](https://img.shields.io/badge/-Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-brown?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
