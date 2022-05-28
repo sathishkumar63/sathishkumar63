@@ -91,16 +91,15 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2022 - To: 26 May 2022
+From: 27 April 2022 - To: 27 May 2022
 
-Total Time: 58 hrs 19 mins
+Total Time: 53 hrs 44 mins
 
-TypeScript   35 hrs 43 mins  ███████████████░░░░░░░░░░   60.18 %
-HTML         13 hrs          █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
-JavaScript   4 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-SCSS         2 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-YAML         1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Other        1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+TypeScript   33 hrs          ███████████████░░░░░░░░░░   60.24 %
+HTML         12 hrs 38 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
+JavaScript   4 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+SCSS         2 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Other        1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
