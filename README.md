@@ -91,7 +91,7 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 August 2022 - To: 25 September 2022
+From: 27 August 2022 - To: 26 September 2022
 
 Total Time: 29 hrs 38 mins
 
