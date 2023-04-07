@@ -91,7 +91,7 @@ Welcome to my profile! I’m working as a Software Engineer - II at Kaplan North
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 04 April 2023
+From: 06 March 2023 - To: 05 April 2023
 
 Total Time: 0 secs
 
